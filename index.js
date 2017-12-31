@@ -1,1 +1,1 @@
-var object = recipes
+var object = 'recipes'
