@@ -1,1 +1,1 @@
-var object = {recipes};
+var objects = {object: 'recipes'};
