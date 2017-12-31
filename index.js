@@ -7,4 +7,4 @@ function updateObjectWithKeyAndValue (object, key, value) {
 function destructivelyUpdateObjectWithKeyAndValue(object, key, value) {
   return obj
 }
-const object = {
+const object = {prop2: 2
